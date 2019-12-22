@@ -1,5 +1,7 @@
 # Exclusions
-!01_CNNs_TensorFlow (Theory).ipynb
+01_CNNs_TensorFlow (Theory).ipynb
+MNIST_data/*
+images/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
